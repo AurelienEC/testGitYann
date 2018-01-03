@@ -1,3 +1,3 @@
 <?php
 
-define("PASSWORD", "c,cdcDFEzfDDSFfez495453542%%^$€");
+define("PASSWORD", "N2LRfdsdfzEF*ù%");
