@@ -52,6 +52,8 @@ Class Post {
         $this->content = $content;
     }
 
-
+    public function create(){
+        // TODO Create method
+    }
 
 }
